@@ -12,7 +12,7 @@ class Solution {
                     ans[0] = towers[i][0];
                     ans[1] = towers[i][1];
                 }else if(maxQ == towers[i][2]){ // if quality is equal
-                    if(towers[i][0]<= ans[0] || towers[i][0] == ans[0] && towers[i][1] < ans[1]){
+                    if(towers[i][0]<= ans[0] && towers[i][1] < ans[1]){
                         ans[0] = towers[i][0];
                         ans[1] = towers[i][1];
                     }
