@@ -24,7 +24,7 @@ class Solution {
         int[] dc = {0,0,-1,1};
 
         int maxArea=0;
-        for(int i=0;i<rowL;i++){
+        for(int i=0;i<rowsL;i++){
             for(int j=0; j<colL;j++){
                 if(!visited[i][j] && grid[i][j] == 1){
                     maxArea = Math.max(maxArea, DFS(i,j,visited,grid,dr,dc));
