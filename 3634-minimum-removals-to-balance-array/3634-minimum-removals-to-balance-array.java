@@ -1,7 +1,7 @@
 class Solution {
     public int minRemoval(int[] nums, int k) {
         int n = nums.length;
-        if(n==1)return 0;
+        // if(n==1)return 0;
         Arrays.sort(nums);
         int left=0;
         int len = 0;
