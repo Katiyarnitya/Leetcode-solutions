@@ -6,7 +6,7 @@ class Solution {
         int left=0;
         int len = 0;
         for(int right=0;right<n;right++){
-            while(nums[right]>k*nums[left]){
+            while((long)nums[right]> (long)k*nums[left]){
                 left++;
             }
             len = Math.max(len,right-left+1);
