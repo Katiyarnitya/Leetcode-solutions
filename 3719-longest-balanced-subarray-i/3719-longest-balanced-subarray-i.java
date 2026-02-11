@@ -4,19 +4,15 @@ class Solution {
         int ans = Integer.MIN_VALUE;
 
         for(int i=0;i<n;i++){
-            HashSet<Integer> set = new HashSet<>();
+            HashSet<Integer> setE = new HashSet<>();
+            HashSet<Integer> setO = new HashSet<>();
             for(int j=i; j<n;j++){
-                set.add(nums[j]);
-                int even =0;
-                int odd=0;
-                for(int val : set){
-                    if(val%2==0){
-                        even++;
-                    }else{
-                        odd++;
-                    }
+                if(nums[j] % 2==0){
+                    setE.add(nums[j]);
+                }else{
+                    setO.add(nums[j]);
                 }
-                if(even==odd){
+                if(setE.size()==setO.size()){
                     int len = (j-i)+1;
                     ans = Math.max(ans,len);
                 }
