@@ -13,7 +13,7 @@ class Solution {
     static int colL;
     static int[] dr = {-1,1,0,0};
     static int[] dc = {0,0,-1,1};
-    static int maxTime = 0;
+    int maxTime = 0;
 
     public int orangesRotting(int[][] grid) {
         rowL = grid.length;
@@ -41,7 +41,6 @@ class Solution {
             int t = curr.time;
 
             maxTime = Math.max(maxTime,t);
-            // if(fresh==0) break;
             for(int i=0;i<4;i++){
                 int newR = r +dr[i];
                 int newC = c+dc[i];
