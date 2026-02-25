@@ -24,6 +24,8 @@ class Solution {
 
         return helper(root.left, tar, sum + root.val) || helper(root.right, tar, sum + root.val);
     }
+
+    
     public boolean hasPathSum(TreeNode root, int targetSum) {
         if(root==null)return false;
         return helper(root,targetSum,0);
