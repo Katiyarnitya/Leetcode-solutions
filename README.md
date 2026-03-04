@@ -55,4 +55,12 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 <!---LeetCode Topics End-->
