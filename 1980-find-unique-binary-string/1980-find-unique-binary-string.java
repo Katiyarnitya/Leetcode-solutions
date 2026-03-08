@@ -18,12 +18,22 @@ class Solution {
     public String findDifferentBinaryString(String[] nums) {
         
         int n = nums.length;
-        set = new HashSet<>();
-        ans = null;
+        // set = new HashSet<>();
+        // ans = null;
+        // for(int i=0;i<n;i++){
+        //     set.add(nums[i]);
+        // }
+        // solve(0,"",n);
+        // return ans;
+
+        StringBuilder sb = new StringBuilder();
         for(int i=0;i<n;i++){
-            set.add(nums[i]);
+            if(nums[i].charAt(i) == '0'){
+                sb.append('1');
+            }else{
+                sb.append('0');
+            }
         }
-        solve(0,"",n);
-        return ans;
+        return sb.toString();
     }
 }
