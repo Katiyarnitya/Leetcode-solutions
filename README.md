@@ -52,6 +52,7 @@ The problems are categorized by topics such as:
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -103,4 +104,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 <!---LeetCode Topics End-->
