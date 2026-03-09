@@ -49,6 +49,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 ## Math
@@ -90,4 +91,16 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 <!---LeetCode Topics End-->
