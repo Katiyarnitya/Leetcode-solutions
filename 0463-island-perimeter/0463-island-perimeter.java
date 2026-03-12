@@ -28,8 +28,8 @@ class Solution {
         for(int i=0;i<rowL;i++){
             for(int j=0;j<colL;j++){
                 if(grid[i][j] == 1){
-                   ans +=  DFS(i,j,grid,visited,dr,dc);
-                   break;
+                   return DFS(i,j,grid,visited,dr,dc);
+                //    break;
                 }
             }
         }
