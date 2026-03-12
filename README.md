@@ -73,11 +73,13 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -103,6 +105,7 @@ The problems are categorized by topics such as:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Graph Theory
@@ -118,4 +121,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 <!---LeetCode Topics End-->
