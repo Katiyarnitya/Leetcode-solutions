@@ -48,6 +48,7 @@ The problems are categorized by topics such as:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
@@ -75,6 +76,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0134-gas-station](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
@@ -168,4 +170,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
