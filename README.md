@@ -30,6 +30,7 @@ The problems are categorized by topics such as:
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -79,6 +80,7 @@ The problems are categorized by topics such as:
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
