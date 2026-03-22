@@ -34,6 +34,7 @@ The problems are categorized by topics such as:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -96,6 +97,7 @@ The problems are categorized by topics such as:
 | [0303-range-sum-query-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [1480-running-sum-of-1d-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -137,6 +139,7 @@ The problems are categorized by topics such as:
 | [0056-merge-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -201,17 +204,20 @@ The problems are categorized by topics such as:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Stack
@@ -248,4 +254,12 @@ The problems are categorized by topics such as:
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
