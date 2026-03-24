@@ -109,6 +109,7 @@ The problems are categorized by topics such as:
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
@@ -121,6 +122,7 @@ The problems are categorized by topics such as:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 ## Memoization
@@ -171,6 +173,7 @@ The problems are categorized by topics such as:
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
