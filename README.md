@@ -37,6 +37,7 @@ The problems are categorized by topics such as:
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +115,7 @@ The problems are categorized by topics such as:
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,6 +127,7 @@ The problems are categorized by topics such as:
 | [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -178,6 +181,7 @@ The problems are categorized by topics such as:
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -267,4 +271,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 <!---LeetCode Topics End-->
