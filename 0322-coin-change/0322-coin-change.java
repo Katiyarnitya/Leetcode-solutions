@@ -21,8 +21,30 @@ class Solution {
     public int coinChange(int[] coins, int amount) {
         int n = coins.length;
         Integer[][] dp = new Integer[n][amount +1];
-        int ans =  solve(0,coins,amount,dp);
-        return (ans >=(int) 1e9) ? -1 : ans;
+        // int ans =  solve(0,coins,amount,dp);
+        // return (ans >=(int) 1e9) ? -1 : ans;
+
+        for(int i=0;i<=amount;i++){
+            if(i%coins[n-1] ==0){
+                dp[n-1][i] = i/coins[n-1];
+            }else{
+                dp[n-1][i] = (int) 1e9;
+            }
+        }
+
+        for(int i=n-2;i>=0;i--){
+            for(int amt = 0; amt<=amount; amt++){
+                int pick = (int) 1e9;
+                if(amt>=coins[i]){
+                    pick = 1 + dp[i][amt-coins[i]];
+                }
+                int notpick = 0 + dp[i+1][amt];
+                dp[i][amt] = Math.min(pick, notpick);
+            }
+            
+        }
+        int ans = dp[0][amount];
+        return (ans >= (int)1e9) ? -1 : ans;
     }
 }
 
