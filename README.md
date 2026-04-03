@@ -68,6 +68,7 @@ The problems are categorized by topics such as:
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -115,6 +116,7 @@ The problems are categorized by topics such as:
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -252,6 +254,7 @@ The problems are categorized by topics such as:
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 ## Stack
@@ -314,4 +317,12 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 <!---LeetCode Topics End-->
