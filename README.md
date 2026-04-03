@@ -45,6 +45,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -254,6 +255,7 @@ The problems are categorized by topics such as:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
