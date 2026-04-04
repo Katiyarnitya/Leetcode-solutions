@@ -74,6 +74,7 @@ The problems are categorized by topics such as:
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ The problems are categorized by topics such as:
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Matrix
@@ -147,6 +149,7 @@ The problems are categorized by topics such as:
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
+| [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Memoization
 | Problem Name | Difficulty |
