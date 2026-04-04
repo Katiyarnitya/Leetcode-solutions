@@ -52,6 +52,7 @@ The problems are categorized by topics such as:
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -315,6 +316,7 @@ The problems are categorized by topics such as:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
