@@ -334,4 +334,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
