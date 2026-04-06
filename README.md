@@ -70,6 +70,7 @@ The problems are categorized by topics such as:
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
@@ -122,6 +123,7 @@ The problems are categorized by topics such as:
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
+| [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
