@@ -135,6 +135,7 @@ The problems are categorized by topics such as:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1848-minimum-distance-to-the-target-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
