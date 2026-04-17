@@ -1,32 +1,30 @@
 class Solution {
     static int rowL;
     static int colL;
-    public void DFS(int r, int c, char[][] board, boolean[][] visited, int[] dr, int[] dc){
+    public void DFS(int r, int c, char[][] board, int[] dr, int[] dc){
         if(r<0 || c<0 || r>=rowL || c>=colL || board[r][c] == 'X'){
             return;
         }
-
-        visited[r][c] = true;
+        if(board[r][c]=='A')return;// If the cell has already changed
         board[r][c] = 'A';
 
         for(int i=0;i<4;i++){
             int newR = r+dr[i];
             int newC = c+dc[i];
-            DFS(newR,newC, board, visited, dr,dc);
+            DFS(newR,newC, board, dr,dc);
         }
     }
     public void solve(char[][] board) {
         rowL = board.length;
         colL = board[0].length;
-        boolean[][] visited = new boolean[rowL][colL];
         int[] dr = {-1,1,0,0};
         int[] dc = {0,0,-1,1};
         
         for (int i = 0; i < rowL; i++) {
             for (int j = 0; j < colL; j++) {
                 if (i == 0 || i == rowL - 1 || j == 0 || j == colL - 1) {
-                    if(!visited[i][j] && board[i][j] == 'O'){
-                        DFS(i,j,board,visited,dr,dc);
+                    if(board[i][j] == 'O'){
+                        DFS(i,j,board,dr,dc);
                     }
                 }
 
