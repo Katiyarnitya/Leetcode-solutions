@@ -14,7 +14,7 @@ class Solution {
      }
 
      Queue<Integer> q = new LinkedList<>();
-        ArrayList<Integer> result = new ArrayList<>();
+    ArrayList<Integer> result = new ArrayList<>();
      for(int i=0;i<numCourses;i++){
         if(indeg[i]==0) q.offer(i);
      }
@@ -31,7 +31,7 @@ class Solution {
         }
      }
     int[] ans = new int[result.size()];
-    for(int i=0;i<numCourses;i++){
+    for(int i=0;i<result.size();i++){
         ans[i] = result.get(i);
     }
 
