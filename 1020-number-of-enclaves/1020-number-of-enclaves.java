@@ -1,44 +1,88 @@
 class Solution {
-    static int rowL;
-    static int colL;
-    public void DFS(int r, int c, int[][] grid, int[] dr, int[]dc){
-        if(r<0|| c<0 || r>=rowL || c>=colL || grid[r][c]==0){
-            return;
-        }
+    static int rLen;
+    static int cLen;
+    static int[] dr = {-1,1,0,0};
+    static int[] dc = {0,0,-1,1};
+
+    public static void dfs(int r, int c, int[][] grid){
         grid[r][c] = 0;
+
         for(int i=0;i<4;i++){
-            int newR = r+dr[i];
-            int newC = c+dc[i];
-            DFS(newR,newC, grid, dr, dc);
+            int newR = r + dr[i];
+            int newC = c + dc[i];
+
+            if(newR>=0 && newR<rLen && newC>=0 && newC<cLen && grid[newR][newC]==1){
+                dfs(newR, newC, grid);
+            }
         }
     }
     public int numEnclaves(int[][] grid) {
-        rowL = grid.length;
-        colL = grid[0].length;
-        int[] dr = {-1,1,0,0};
-        int[] dc = {0,0,-1,1};
         
-        for (int i = 0; i < rowL; i++) {
-            for (int j = 0; j < colL; j++) {
-                if (i == 0 || i == rowL - 1 || j == 0 || j == colL - 1) {
+        rLen = grid.length;
+        cLen = grid[0].length;
+
+        for(int i=0;i<rLen;i++){
+            for(int j=0; j<cLen; j++){
+                if(i==0 || j==0 || i==rLen-1 || j==cLen-1){
                     if(grid[i][j] == 1){
-                        DFS(i,j,grid,dr,dc);
+                        dfs(i,j,grid);
                     }
                 }
-
             }
         }
-        int landCells =0;
-        for(int i=0;i<rowL;i++){
-            for(int j=0;j<colL;j++){
-                if(grid[i][j] ==1){
-                    landCells++;
+        int ans = 0;
+        for(int i=0;i<rLen;i++){
+            for(int j=0; j<cLen; j++){
+                if(grid[i][j] == 1){
+                    ans++;
                 }
             }
         }
-        return landCells;
+        return ans;
     }
 }
+
+// class Solution {
+//     static int rowL;
+//     static int colL;
+//     public void DFS(int r, int c, int[][] grid, int[] dr, int[]dc){
+//         if(r<0|| c<0 || r>=rowL || c>=colL || grid[r][c]==0){
+//             return;
+//         }
+//         grid[r][c] = 0;
+//         for(int i=0;i<4;i++){
+//             int newR = r+dr[i];
+//             int newC = c+dc[i];
+//             DFS(newR,newC, grid, dr, dc);
+//         }
+//     }
+//     public int numEnclaves(int[][] grid) {
+//         rowL = grid.length;
+//         colL = grid[0].length;
+//         int[] dr = {-1,1,0,0};
+//         int[] dc = {0,0,-1,1};
+        
+//         for (int i = 0; i < rowL; i++) {
+//             for (int j = 0; j < colL; j++) {
+//                 if (i == 0 || i == rowL - 1 || j == 0 || j == colL - 1) {
+//                     if(grid[i][j] == 1){
+//                         DFS(i,j,grid,dr,dc);
+//                     }
+//                 }
+
+//             }
+//         }
+//         int landCells =0;
+//         for(int i=0;i<rowL;i++){
+//             for(int j=0;j<colL;j++){
+//                 if(grid[i][j] ==1){
+//                     landCells++;
+//                 }
+//             }
+//         }
+//         return landCells;
+//     }
+// }
 // class Pair{
 //     int row;
 //     int col;
