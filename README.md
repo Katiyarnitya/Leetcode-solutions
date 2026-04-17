@@ -113,6 +113,7 @@ The problems are categorized by topics such as:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0134-gas-station](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
@@ -154,6 +155,7 @@ The problems are categorized by topics such as:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -206,6 +208,7 @@ The problems are categorized by topics such as:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -234,6 +237,7 @@ The problems are categorized by topics such as:
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 ## Design
@@ -362,4 +366,8 @@ The problems are categorized by topics such as:
 | [0183-customers-who-never-order](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [1148-article-views-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 <!---LeetCode Topics End-->
