@@ -1,29 +1,34 @@
+import java.util.*;
+
 class Solution {
-    public int countSubsets(int idx, int tar, int[] nums){
-        if(idx==0){
-            if(tar==0 && nums[0]==0) return 2;
-            if(tar ==0 || nums[0] == tar) return 1;
-            return 0;
+
+    int offset = 1000; // to handle negative sums
+    int[][] dp;
+
+    public int solve(int idx, int sum, int[] nums, int target){
+
+        if(idx == nums.length){
+            return sum == target ? 1 : 0;
         }
 
-        int notTake = countSubsets(idx-1,tar,nums);
-        int take = 0;
-        if(nums[idx]<=tar){
-            take =countSubsets(idx-1, tar-nums[idx],nums);
+        if(dp[idx][sum + offset] != Integer.MIN_VALUE){
+            return dp[idx][sum + offset];
         }
 
-        return take+notTake;
+        int plus = solve(idx + 1, sum + nums[idx], nums, target);
+        int minus = solve(idx + 1, sum - nums[idx], nums, target);
+
+        return dp[idx][sum + offset] = plus + minus;
     }
+
     public int findTargetSumWays(int[] nums, int target) {
-        // Similar to no. of partitions whoose diff is equal to the target
-      int n = nums.length;
-      int totSum = 0;
-      for(int i : nums){
-        totSum +=i;
-      } 
-      if (totSum - target < 0 || (totSum - target) % 2 != 0)
-        return 0;
-      int tar = (totSum-target)/2;
-      return countSubsets(n-1,tar,nums); 
+
+        dp = new int[nums.length][2001];
+
+        for(int i = 0; i < nums.length; i++){
+            Arrays.fill(dp[i], Integer.MIN_VALUE);
+        }
+
+        return solve(0, 0, nums, target);
     }
 }
