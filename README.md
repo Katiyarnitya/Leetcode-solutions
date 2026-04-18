@@ -71,6 +71,7 @@ The problems are categorized by topics such as:
 | [0576-out-of-boundary-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
@@ -96,6 +97,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +249,7 @@ The problems are categorized by topics such as:
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -382,4 +386,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+## Bitmask
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 <!---LeetCode Topics End-->
