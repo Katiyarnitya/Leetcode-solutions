@@ -126,6 +126,7 @@ The problems are categorized by topics such as:
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
@@ -195,6 +196,7 @@ The problems are categorized by topics such as:
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -273,6 +275,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
