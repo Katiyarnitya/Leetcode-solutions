@@ -38,6 +38,7 @@ The problems are categorized by topics such as:
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## String
@@ -107,6 +108,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ The problems are categorized by topics such as:
 | [1848-minimum-distance-to-the-target-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
@@ -208,6 +211,7 @@ The problems are categorized by topics such as:
 | [1288-remove-covered-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 ## Sliding Window
@@ -359,6 +363,7 @@ The problems are categorized by topics such as:
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
