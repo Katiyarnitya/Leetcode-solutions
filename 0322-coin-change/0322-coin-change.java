@@ -1,6 +1,7 @@
 class Solution {
     public static int solve(int idx,int amount,int[]coins, int[][]dp){
-
+        
+        if(amount==0) return 0;
         if(idx==coins.length-1){
             if(amount%coins[idx] == 0){
                 return amount/coins[idx];
