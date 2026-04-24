@@ -34,6 +34,7 @@ The problems are categorized by topics such as:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -126,6 +127,7 @@ The problems are categorized by topics such as:
 | [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -182,6 +184,7 @@ The problems are categorized by topics such as:
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
