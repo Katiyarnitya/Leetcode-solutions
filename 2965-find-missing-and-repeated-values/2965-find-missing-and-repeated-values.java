@@ -1,8 +1,8 @@
 class Solution {
     public int[] findMissingAndRepeatedValues(int[][] grid) {
         
-        int len = grid.length;
-        int n = len*len;
+        long len = grid.length;
+        long n = len*len;
 
         long actualSum = (long)(n*(n+1))/2;
         long actualSqSum = (long)(n*(n+1)*(2*n+1))/6;
