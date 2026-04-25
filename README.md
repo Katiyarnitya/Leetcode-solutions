@@ -54,6 +54,7 @@ The problems are categorized by topics such as:
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0097-interleaving-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -361,6 +362,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
