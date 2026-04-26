@@ -2,32 +2,54 @@ class Solution {
     public boolean checkValidString(String s) {
         
         int n = s.length();
-        Stack<Integer> openBracSt = new Stack<>(); // storing open indices
-        Stack<Integer> astricSt = new Stack<>(); // storing astric indices
+        // Stack<Integer> openBracSt = new Stack<>(); // storing open indices
+        // Stack<Integer> astricSt = new Stack<>(); // storing astric indices
 
+        // for(int i=0;i<n;i++){
+        //     if(s.charAt(i)=='('){
+        //         openBracSt.push(i);
+        //     }else if(s.charAt(i)=='*'){
+        //         astricSt.push(i);
+        //     }else{
+        //         if(!openBracSt.isEmpty()){
+        //             openBracSt.pop();
+        //         }else if(!astricSt.isEmpty()){
+        //             astricSt.pop();
+        //         }else{
+        //                 return false;
+        //         }
+        //     }
+        // }
+        // while(!openBracSt.isEmpty() && !astricSt.isEmpty()){
+        //     if(openBracSt.peek() > astricSt.peek()){ // if the astric came before open bracket then no use
+        //         return false;
+        //     }
+        //     astricSt.pop();
+        //     openBracSt.pop();
+        // }
+        // return openBracSt.isEmpty();
+
+
+        int close = 0;
+        int open = 0;
         for(int i=0;i<n;i++){
-            if(s.charAt(i)=='('){
-                openBracSt.push(i);
-            }else if(s.charAt(i)=='*'){
-                astricSt.push(i);
+            if(s.charAt(i) == '(' || s.charAt(i)=='*'){
+                open++;
             }else{
-                if(!openBracSt.isEmpty()){
-                    openBracSt.pop();
-                }else if(!astricSt.isEmpty()){
-                    astricSt.pop();
-                }else{
-                        return false;
-                }
+                open--;
             }
+            if(open<0) return false;
         }
-        while(!openBracSt.isEmpty() && !astricSt.isEmpty()){
-            if(openBracSt.peek() > astricSt.peek()){ // if the astric came before open bracket then no use
-                return false;
+
+        for(int i=n-1;i>=0;i--){
+            if(s.charAt(i) == ')' || s.charAt(i)=='*'){
+                close++;
+            }else{
+                close--;
             }
-            astricSt.pop();
-            openBracSt.pop();
+            if(close<0) return false;
         }
-        return openBracSt.isEmpty();
+        return true;
     }
 }
 
