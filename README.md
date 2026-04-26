@@ -52,6 +52,7 @@ The problems are categorized by topics such as:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0038-count-and-say](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0097-interleaving-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
