@@ -57,6 +57,7 @@ The problems are categorized by topics such as:
 | [0097-interleaving-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -87,6 +88,7 @@ The problems are categorized by topics such as:
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
@@ -331,6 +333,7 @@ The problems are categorized by topics such as:
 | [0134-gas-station](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0134-gas-station/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -366,6 +369,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
