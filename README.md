@@ -174,6 +174,7 @@ The problems are categorized by topics such as:
 | [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
@@ -326,6 +327,7 @@ The problems are categorized by topics such as:
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
