@@ -322,6 +322,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -385,6 +386,7 @@ The problems are categorized by topics such as:
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
@@ -406,6 +408,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -475,4 +478,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
