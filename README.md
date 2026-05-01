@@ -320,6 +320,7 @@ The problems are categorized by topics such as:
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -382,6 +383,7 @@ The problems are categorized by topics such as:
 | [0020-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0071-simplify-path](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0155-min-stack/) | Medium |
 | [0394-decode-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
