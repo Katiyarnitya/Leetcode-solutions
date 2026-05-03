@@ -246,6 +246,7 @@ The problems are categorized by topics such as:
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0148-sort-list](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
@@ -256,6 +257,7 @@ The problems are categorized by topics such as:
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0148-sort-list](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
@@ -380,6 +382,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0148-sort-list](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -425,6 +428,7 @@ The problems are categorized by topics such as:
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
@@ -500,6 +504,7 @@ The problems are categorized by topics such as:
 | [0002-add-two-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+| [0148-sort-list](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0148-sort-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
