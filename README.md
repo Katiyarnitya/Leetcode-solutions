@@ -35,6 +35,7 @@ The problems are categorized by topics such as:
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
@@ -494,6 +495,7 @@ The problems are categorized by topics such as:
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0146-lru-cache](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 ## Doubly-Linked List
