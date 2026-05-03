@@ -282,6 +282,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
@@ -290,6 +291,7 @@ The problems are categorized by topics such as:
 | [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -317,6 +319,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
+| [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -326,6 +329,7 @@ The problems are categorized by topics such as:
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 ## Design
