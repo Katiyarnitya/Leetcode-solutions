@@ -4,17 +4,15 @@ class Solution {
             return 1;
         }
         if(dp[i][j] != -1) return dp[i][j];
-
         // down
         int down = solve(i+1,j,m,n,dp);
+        //right
         int right = solve(i,j+1,m,n,dp);
-
         return dp[i][j] = down + right;
     }
     public int uniquePaths(int m, int n) {
         
         int[][] dp = new int[m][n];
-
         for(int[] row : dp){
             Arrays.fill(row,-1);
         }
