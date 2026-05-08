@@ -66,6 +66,7 @@ The problems are categorized by topics such as:
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -106,6 +107,7 @@ The problems are categorized by topics such as:
 | [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1155-number-of-dice-rolls-with-target-sum/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
