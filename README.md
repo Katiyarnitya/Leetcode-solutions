@@ -96,6 +96,7 @@ The problems are categorized by topics such as:
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -175,6 +176,7 @@ The problems are categorized by topics such as:
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0416-partition-equal-subset-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
