@@ -5,7 +5,7 @@ class Solution {
 
         if(dp[i][j][k] != null) return dp[i][j][k];
         boolean result = false;
-        if(i<s1.length() && s1.charAt(i) == s3.charAt(k)){
+        if(i<s1.length() && s1.charAt(i) == s3.charAt(k)){// if s1 still has character left then only compare
             result = result ||  solve(i+1,j,k+1,s1, s2, s3, dp);
         }
         if(j<s2.length() && s2.charAt(j) == s3.charAt(k)) {
