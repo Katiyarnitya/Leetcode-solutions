@@ -11,7 +11,6 @@ class Solution {
             if(curr<0){
                 curr = 0;
             }
-            
         }
         return maxi;
     }
