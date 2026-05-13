@@ -202,6 +202,7 @@ The problems are categorized by topics such as:
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -258,6 +259,7 @@ The problems are categorized by topics such as:
 | [0283-move-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@ The problems are categorized by topics such as:
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -419,6 +422,7 @@ The problems are categorized by topics such as:
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
@@ -440,6 +444,7 @@ The problems are categorized by topics such as:
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0901-online-stock-span](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0901-online-stock-span/) | Medium |
+| [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
