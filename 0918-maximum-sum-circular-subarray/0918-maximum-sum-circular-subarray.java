@@ -1,23 +1,50 @@
 class Solution {
+    public int minKadanes(int[] arr){
+        int n = arr.length;
+        int mini = Integer.MAX_VALUE;
+        int curr = 0;
+        for(int i=0;i<n;i++){
+            curr += arr[i];
+            mini = Math.min(mini,curr);
+            if(curr>0){
+                curr=0;
+            }
+        }
+        return mini;
+    }
+
+    public int maxKadanes(int[] arr){
+        int n = arr.length;
+        int maxi = Integer.MIN_VALUE;
+        int curr = 0;
+
+        for(int i=0;i<n;i++){
+            curr += arr[i];
+            maxi = Math.max(maxi,curr);
+            if(curr<0){
+                curr = 0;
+            }
+        }
+        return maxi;
+    }
     public int maxSubarraySumCircular(int[] nums) {
         
         int n = nums.length;
-        
-        int currMin = nums[0];
-        int miniSum = nums[0];
-        int currMax = nums[0];
-        int maxSum = nums[0];
-        int totalSum = nums[0];
 
-        for(int i=1;i<n;i++){
-            totalSum+=nums[i];
-            currMax = Math.max(nums[i], currMax + nums[i]);
-            maxSum =  Math.max(maxSum, currMax);
-            currMin = Math.min(nums[i],currMin+nums[i]);
-            miniSum = Math.min(currMin, miniSum);
+        int maxSum = maxKadanes(nums); // case :1
+
+        int totalSum = 0;
+        for(int num : nums){
+            totalSum += num;
         }
+        
+        int minSum = minKadanes(nums); 
+        int circularSum = totalSum - minSum; // case : 2
 
-        if(maxSum<0) return maxSum;
-        return Math.max(maxSum, totalSum-miniSum);
+       if(maxSum>0){
+            return Math.max(maxSum,circularSum);
+       }else{
+            return maxSum;
+       }
     }
 }
