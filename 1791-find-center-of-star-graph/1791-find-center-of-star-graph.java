@@ -1,20 +1,16 @@
 class Solution {
     public int findCenter(int[][] edges) {
 
-        int n = edges.length;
-        int[] deg = new int[n+2];
+        int A = edges[0][0];
+        int B = edges[0][1];
+        int C = edges[1][0];
+        int D = edges[1][1];
 
-        for(int i=0;i<n;i++){
-            int u = edges[i][0];
-            int v = edges[i][1];
-            deg[u]++;
-            deg[v]++;
+        if(A==C || A==D){
+            return A;
+        }else{
+            return B;
         }
-        for(int i=1;i<=n+1;i++){
-            if(deg[i]==n){
-                return i;
-            }
-        }
-        return -1;
+        // return -1;
     }
 }
