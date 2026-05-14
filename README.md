@@ -313,6 +313,7 @@ The problems are categorized by topics such as:
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [1791-find-center-of-star-graph](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
