@@ -1,26 +1,30 @@
 class Solution {
-    static int rowL;
-    static int colL;
+    int[] dr = {-1,1,0,0};
+    int[] dc = {0,0,-1,1};
 
-    public void DFS(int r, int c, int color, int[][] image,int pixel, int[] dr, int[] dc){
-        if(r<0 || c<0 || r>=rowL || c>=colL || image[r][c] !=pixel || image[r][c] == color){
-            return;
-        }
+    public void dfs(int r, int c, int startC, int[][] image, int color, int m,int n){
+
         image[r][c] = color;
-        for(int i=0;i<dr.length;i++){
-            int newR = r+dr[i];
-            int newC = c+dc[i];
-            DFS(newR, newC, color, image,pixel, dr,dc);
+        for(int i=0;i<4;i++){
+            int nr = r + dr[i];
+            int nc = c + dc[i];
+            if(nr>=0 && nr<m && nc>=0 && nc<n && image[nr][nc]!=color && image[nr][nc] == startC){
+                dfs(nr,nc,startC, image,color,m,n);
+            }
         }
     }
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
-        rowL = image.length;
-        colL = image[0].length;
+       
+       int m = image.length;
+       int n = image[0].length;
 
-        int[] dr = {-1,1,0,0};
-        int[] dc = {0,0,-1,1};
+       int startColor = image[sr][sc];
 
-        DFS(sr,sc,color,image,image[sr][sc],dr,dc);
+        for(int i=0;i<m;i++){
+            for(int j=0;j<n;j++){
+                dfs(sr,sc,startColor,image,color,m,n);
+            }
+        }
         return image;
     }
 }
