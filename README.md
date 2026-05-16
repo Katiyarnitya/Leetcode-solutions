@@ -309,6 +309,7 @@ The problems are categorized by topics such as:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -325,6 +326,7 @@ The problems are categorized by topics such as:
 | [0200-number-of-islands](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
@@ -365,6 +367,7 @@ The problems are categorized by topics such as:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
