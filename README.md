@@ -43,6 +43,7 @@ The problems are categorized by topics such as:
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -309,6 +310,7 @@ The problems are categorized by topics such as:
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Depth-First Search
@@ -325,6 +327,7 @@ The problems are categorized by topics such as:
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
@@ -360,6 +363,7 @@ The problems are categorized by topics such as:
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0968-binary-tree-cameras](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0968-binary-tree-cameras/) | Hard |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 ## Breadth-First Search
@@ -380,6 +384,7 @@ The problems are categorized by topics such as:
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
 | [0733-flood-fill](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
