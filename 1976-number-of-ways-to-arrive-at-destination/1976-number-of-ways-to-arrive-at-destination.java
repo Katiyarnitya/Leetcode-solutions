@@ -43,13 +43,13 @@ class Solution {
                 int v = neigh.node;
                 long costUV = neigh.dis;
 
-                if(distance[v] == distance[u] + costUV){
-                    ways[v] = (ways[u] + ways[v]) % MOD;
-                }
+                
                 if(distance[v] > distance[u] + costUV){
                     distance[v] = distance[u] + costUV;
                     ways[v]=ways[u];
                     pq.offer(new Pair(v, distance[v]));
+                }else if(distance[v] == distance[u] + costUV){
+                    ways[v] = (ways[u] + ways[v]) % MOD;
                 }
             }
         }
