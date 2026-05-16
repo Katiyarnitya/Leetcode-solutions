@@ -117,6 +117,7 @@ The problems are categorized by topics such as:
 | [1473-paint-house-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1473-paint-house-iii/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -326,6 +327,7 @@ The problems are categorized by topics such as:
 | [0834-sum-of-distances-in-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0834-sum-of-distances-in-tree/) | Hard |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -533,6 +535,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -553,4 +556,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0146-lru-cache/) | Medium |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 <!---LeetCode Topics End-->
