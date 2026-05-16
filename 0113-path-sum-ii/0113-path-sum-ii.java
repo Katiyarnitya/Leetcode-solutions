@@ -14,29 +14,30 @@
  * }
  */
 class Solution {
-    List<List<Integer>> ans;
-    public void solve(TreeNode node, int targetSum, int sum, ArrayList<Integer> al){
-        if(node == null){
+    public void solve(TreeNode root, int sum, int target, List<Integer> list, List<List<Integer>> result){
+
+        if(root==null){
             return;
         }
-        al.add(node.val);
-        if(node.left==null && node.right==null){
-            if(sum + node.val==targetSum){
-                ans.add(new ArrayList<>(al));
+        if(root.left==null && root.right==null){
+            if(sum+root.val== target){
+                list.add(root.val);
+                result.add(new ArrayList<>(list));
+                list.remove(list.size()-1);
             }
-            al.remove(al.size() - 1); 
-            return;
         }
-        
-        solve(node.left, targetSum, sum+node.val, al);
-        solve(node.right, targetSum, sum+node.val, al);
-        al.remove(al.size()-1);
+        list.add(root.val);
+        solve(root.left,sum+root.val,target,list,result);
+        solve(root.right,sum+root.val,target,list,result);
+        list.remove(list.size()-1);
+
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        
-        ans = new ArrayList<>();
-        solve(root,targetSum,0,new ArrayList<>());
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> list = new ArrayList<>();
 
-        return ans;
+        solve(root,0,targetSum,list,result);
+        return result;
+
     }
 }
