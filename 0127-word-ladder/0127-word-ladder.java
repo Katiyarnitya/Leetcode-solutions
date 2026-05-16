@@ -15,9 +15,9 @@ class Solution {
         }
         set.remove(beginWord);
 
-        // if(!set.contains(endWord)){
-        //     return 0;
-        // }
+        if(!set.contains(endWord)){
+            return 0;
+        }
 
         int n = wordList.size();
         Queue<Pair> q = new LinkedList<>();
