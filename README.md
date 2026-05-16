@@ -82,6 +82,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -308,6 +309,7 @@ The problems are categorized by topics such as:
 | [0101-symmetric-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
@@ -321,6 +323,7 @@ The problems are categorized by topics such as:
 | [0100-same-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0100-same-tree/) | Easy |
 | [0101-symmetric-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0112-path-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0130-surrounded-regions](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0130-surrounded-regions/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0200-number-of-islands/) | Medium |
@@ -366,6 +369,7 @@ The problems are categorized by topics such as:
 | [0101-symmetric-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0101-symmetric-tree/) | Easy |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0112-path-sum/) | Easy |
+| [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
