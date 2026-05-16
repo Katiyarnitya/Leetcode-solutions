@@ -14,21 +14,20 @@
  * }
  */
 class Solution {
-    public int[] solve(TreeNode node){
-        if(node==null){
-            return new int[2];
-        }
-        int[] leftChoice = solve(node.left);
-        int[] rightChoice = solve(node.right);
+    public int[] solve(TreeNode root){
+        if(root==null) return new int[2];
+        
+        int[] leftChoice = solve(root.left);
+        int[] rightChoice = solve(root.right);
 
         int[] choice = new int[2];
-        choice[0] = node.val+leftChoice[1] + rightChoice[1];
-        choice[1] = 0 + Math.max(leftChoice[0],leftChoice[1]) + Math.max(rightChoice[0], rightChoice[1]);
+        choice[0] = root.val + leftChoice[1] + rightChoice[1];
+        choice[1] = Math.max(leftChoice[0],leftChoice[1]) + Math.max(rightChoice[0],rightChoice[1]);
 
         return choice;
     }
     public int rob(TreeNode root) {
-        int[] choice  = solve(root);
-        return Math.max(choice[0],choice[1]);
+        int[] ans = solve(root);
+        return Math.max(ans[0],ans[1]);
     }
 }
