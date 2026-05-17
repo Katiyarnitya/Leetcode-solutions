@@ -564,6 +564,7 @@ The problems are categorized by topics such as:
 | [0183-customers-who-never-order](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 | [0197-rising-temperature](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0197-rising-temperature/) | Easy |
 | [1148-article-views-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1148-article-views-i/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
