@@ -41,6 +41,7 @@ The problems are categorized by topics such as:
 | [0160-intersection-of-two-linked-lists](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0863-all-nodes-distance-k-in-binary-tree/) | Medium |
@@ -99,6 +100,7 @@ The problems are categorized by topics such as:
 | [0097-interleaving-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
+| [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
@@ -133,6 +135,7 @@ The problems are categorized by topics such as:
 | [0048-rotate-image](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
+| [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
@@ -442,6 +445,7 @@ The problems are categorized by topics such as:
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
