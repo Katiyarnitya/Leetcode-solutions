@@ -22,6 +22,7 @@ class Solution {
         int n = wordList.size();
         Queue<Pair> q = new LinkedList<>();
         q.offer(new Pair(beginWord,1));
+        set.remove(beginWord);
         //  wl.len*word.len*26
         while(!q.isEmpty()){
             Pair curr = q.poll();
@@ -31,9 +32,9 @@ class Solution {
             if(word.equals(endWord)){
                 return level;
             }
-            for(int i=0; i<word.length();i++){
+            for(int i=0; i<word.length();i++){ // for  each idx of word
                 char[] arr = word.toCharArray();
-                for(char ch = 'a'; ch <='z'; ch++){
+                for(char ch = 'a'; ch <='z'; ch++){ // I am trying all characters accept the originally in word
                     if(arr[i] == ch){
                         continue;
                     }
