@@ -24,7 +24,6 @@ class Solution {
         boolean[][] visited = new boolean[rowL][colL];
         int[] dr = {-1,1,0,0};
         int[] dc = {0,0,-1,1};
-        int ans = 0;
         for(int i=0;i<rowL;i++){
             for(int j=0;j<colL;j++){
                 if(grid[i][j] == 1){
@@ -33,6 +32,6 @@ class Solution {
                 }
             }
         }
-        return ans;
+        return 0;
     }
 }
