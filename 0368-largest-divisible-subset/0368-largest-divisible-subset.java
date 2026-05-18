@@ -5,7 +5,7 @@ class Solution {
         int n = nums.length;
         int[] dp = new int[n];
         int[] parent = new int[n];
-        int maxi=1;
+        int maxi=0;
         int lastIdx = 0;
         Arrays.fill(dp, 1);
         Arrays.fill(parent, -1);
