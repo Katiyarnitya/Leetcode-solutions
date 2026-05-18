@@ -83,6 +83,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0051-n-queens](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
@@ -166,6 +167,7 @@ The problems are categorized by topics such as:
 | [0045-jump-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0051-n-queens](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
