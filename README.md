@@ -173,6 +173,7 @@ The problems are categorized by topics such as:
 | [0001-two-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0031-next-permutation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
+| [0035-search-insert-position](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
@@ -435,6 +436,7 @@ The problems are categorized by topics such as:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
