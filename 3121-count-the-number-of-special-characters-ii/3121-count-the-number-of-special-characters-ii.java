@@ -14,10 +14,12 @@ class Solution {
         int count = 0;
         for(int i=0;i<n;i++){
             char ch = word.charAt(i);
-            if(map.containsKey(Character.toLowerCase(ch)) && map.containsKey(Character.toUpperCase(ch)) && !set.contains(Character.toLowerCase(ch))){
-                if(map.get(Character.toLowerCase(ch))<map.get(Character.toUpperCase(ch)) ){
+            char smallCase = Character.toLowerCase(ch);
+            char capitalCase = Character.toUpperCase(ch);
+            if(map.containsKey(smallCase) && map.containsKey(capitalCase) && !set.contains(smallCase)){
+                if(map.get(smallCase)<map.get(capitalCase) ){
                     count++;
-                    set.add(Character.toLowerCase(ch));
+                    set.add(smallCase);
                 }
             }
 
