@@ -12,7 +12,7 @@ class Solution {
             if(nums[low]<=nums[mid]){ //Left orte
                 ans = Math.min(ans,nums[low]);
                 low = mid+1;
-            }else if(nums[mid]<nums[high]){
+            }else{
                 ans = Math.min(ans,nums[mid]);
                 high = mid-1;
             }
