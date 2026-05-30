@@ -222,6 +222,7 @@ The problems are categorized by topics such as:
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0733-flood-fill](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0733-flood-fill/) | Easy |
 | [0741-cherry-pickup](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0741-cherry-pickup/) | Hard |
+| [0875-koko-eating-bananas](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0879-profitable-schemes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0879-profitable-schemes/) | Hard |
 | [0918-maximum-sum-circular-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
@@ -453,6 +454,7 @@ The problems are categorized by topics such as:
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
