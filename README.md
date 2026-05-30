@@ -144,6 +144,7 @@ The problems are categorized by topics such as:
 | [0002-add-two-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
+| [0069-sqrtx](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
@@ -443,6 +444,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
