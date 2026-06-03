@@ -230,6 +230,7 @@ The problems are categorized by topics such as:
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1046-last-stone-weight](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1288-remove-covered-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1473-paint-house-iii/) | Hard |
@@ -461,6 +462,7 @@ The problems are categorized by topics such as:
 | [0875-koko-eating-bananas](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1235-maximum-profit-in-job-scheduling/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
