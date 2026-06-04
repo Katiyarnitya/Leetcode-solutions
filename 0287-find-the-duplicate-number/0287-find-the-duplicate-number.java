@@ -3,9 +3,8 @@ class Solution {
         
         int n = nums.length;
     
-        int slow = nums[0];
-        int fast = nums[0];
-
+        int slow = 0;
+        int fast = 0;
         slow = nums[slow];
         fast = nums[nums[fast]];
 
@@ -14,7 +13,7 @@ class Solution {
             fast = nums[nums[fast]];
         }
 
-        slow = nums[0];
+        slow =0;
         // move 1 step at a timr
         while(slow!=fast){
             slow = nums[slow];
