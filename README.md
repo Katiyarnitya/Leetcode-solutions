@@ -138,6 +138,7 @@ The problems are categorized by topics such as:
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +156,7 @@ The problems are categorized by topics such as:
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +587,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
