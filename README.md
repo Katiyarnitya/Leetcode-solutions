@@ -144,6 +144,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0050-powx-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0070-climbing-stairs/) | Easy |
@@ -168,6 +169,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0050-powx-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0394-decode-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
