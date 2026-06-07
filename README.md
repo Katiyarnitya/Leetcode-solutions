@@ -178,6 +178,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0035-search-insert-position](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0045-jump-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0045-jump-game-ii/) | Medium |
@@ -301,6 +302,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0031-next-permutation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0031-next-permutation/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -317,6 +319,7 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0018-4sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0088-merge-sorted-array/) | Easy |
