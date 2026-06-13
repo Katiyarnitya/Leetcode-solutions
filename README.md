@@ -84,6 +84,7 @@ The problems are categorized by topics such as:
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -268,6 +269,7 @@ The problems are categorized by topics such as:
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -601,6 +603,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
