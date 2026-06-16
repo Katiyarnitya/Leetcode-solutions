@@ -2,7 +2,6 @@ class Solution {
     
     public String processStr(String s) {
         
-        int n = s.length();
         StringBuilder result = new StringBuilder();
         for(char ch : s.toCharArray()){
             if(ch=='*'){
