@@ -72,6 +72,7 @@ The problems are categorized by topics such as:
 | [0127-word-ladder](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
 | [0394-decode-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -118,6 +119,7 @@ The problems are categorized by topics such as:
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0673-number-of-longest-increasing-subsequence/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
