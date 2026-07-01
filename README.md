@@ -113,6 +113,7 @@ The problems are categorized by topics such as:
 | [0198-house-robber](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0198-house-robber/) | Medium |
 | [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0337-house-robber-iii/) | Medium |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
@@ -211,6 +212,7 @@ The problems are categorized by topics such as:
 | [0274-h-index](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0304-range-sum-query-2d-immutable](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
@@ -473,6 +475,7 @@ The problems are categorized by topics such as:
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0300-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
