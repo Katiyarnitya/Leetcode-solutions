@@ -478,6 +478,7 @@ The problems are categorized by topics such as:
 | [0300-longest-increasing-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
+| [0374-guess-number-higher-or-lower](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0540-single-element-in-a-sorted-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -675,4 +676,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
