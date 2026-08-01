@@ -119,6 +119,7 @@ The problems are categorized by topics such as:
 | [0354-russian-doll-envelopes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0354-russian-doll-envelopes/) | Hard |
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0576-out-of-boundary-paths](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0576-out-of-boundary-paths/) | Medium |
@@ -156,6 +157,7 @@ The problems are categorized by topics such as:
 | [0264-ugly-number-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0264-ugly-number-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
 | [0368-largest-divisible-subset](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [0486-predict-the-winner](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -176,6 +178,7 @@ The problems are categorized by topics such as:
 | [0002-add-two-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0050-powx-n/) | Medium |
 | [0394-decode-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
+| [0486-predict-the-winner](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 ## Array
@@ -224,6 +227,7 @@ The problems are categorized by topics such as:
 | [0416-partition-equal-subset-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
+| [0486-predict-the-winner](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 | [0493-reverse-pairs](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0493-reverse-pairs/) | Hard |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -683,4 +687,8 @@ The problems are categorized by topics such as:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
