@@ -6,10 +6,7 @@ class Solution {
         }
         if(dp[i]!=null) return dp[i];
 
-        int ans = Integer.MIN_VALUE;
-
-        int one=0;
-            one = value[i] + Math.min(solve(i+2,value,dp),Math.min(solve(i+3,value,dp),solve(i+4,value,dp)));
+        int one = value[i] + Math.min(solve(i+2,value,dp),Math.min(solve(i+3,value,dp),solve(i+4,value,dp)));
 
         int two = (i+1<n) ? 0 : Integer.MIN_VALUE;
         if(i+1<n){
@@ -20,8 +17,7 @@ class Solution {
         if(i+2<value.length){
             three = value[i] + value[i+1] + value[i+2] + Math.min(solve(i+4,value,dp),Math.min(solve(i+5,value,dp),solve(i+6,value,dp)));
         }
-        ans  = Math.max(ans,Math.max(one,Math.max(two,three)));
-        return dp[i] = ans;
+        return dp[i] = Math.max(one,Math.max(two,three));
     }
     public String stoneGameIII(int[] stoneValue) {
         
