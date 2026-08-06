@@ -27,21 +27,19 @@ class Solution {
         dfs(k,vis,adj);
 
         List<Integer> ans = new ArrayList<>();
-        for(int i=0;i<n;i++){
-            if(!vis[i]){
-                ArrayList<Integer> list = adj.get(i);
-                for(int j=0; j<list.size(); j++){
-                    if(vis[list.get(j)]){
-                        for(int num = 0;num<n;num++){
-                            ans.add(num);
-                        }
-                        return ans;
-                    }else{
-                        continue;
-                    }
-               } 
+
+        for(int[] edge : invocations){
+            int a = edge[0]; // If any non-suspicious method calls a suspicious one we cannot remove anything.
+            int b = edge[1];
+
+            if(!vis[a] && vis[b]){
+                for(int num = 0;num<n;num++){
+                    ans.add(num);
+                }
+                return ans;
             }
         }
+    // In case no non-suspicious method calls a suspicious method, Remove the suspicious methods which are already visited during dfs
         for(int i=0;i<n;i++){
             if(!vis[i]){
                 ans.add(i);
