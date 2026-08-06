@@ -415,6 +415,7 @@ The problems are categorized by topics such as:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -424,6 +425,7 @@ The problems are categorized by topics such as:
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1791-find-center-of-star-graph](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +482,7 @@ The problems are categorized by topics such as:
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0987-vertical-order-traversal-of-a-binary-tree/) | Hard |
 | [1020-number-of-enclaves](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1020-number-of-enclaves/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [3310-remove-methods-from-project](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
