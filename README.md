@@ -86,6 +86,7 @@ The problems are categorized by topics such as:
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -148,6 +149,7 @@ The problems are categorized by topics such as:
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3130-find-all-possible-stable-binary-arrays-ii/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
@@ -341,6 +343,7 @@ The problems are categorized by topics such as:
 | [0287-find-the-duplicate-number](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 ## Sorting
@@ -537,6 +540,7 @@ The problems are categorized by topics such as:
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
