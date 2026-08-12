@@ -50,6 +50,7 @@ The problems are categorized by topics such as:
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -289,6 +290,7 @@ The problems are categorized by topics such as:
 | [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -385,6 +387,7 @@ The problems are categorized by topics such as:
 | [0003-longest-substring-without-repeating-characters](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
