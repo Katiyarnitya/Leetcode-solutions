@@ -1,7 +1,7 @@
 class Solution {
-    public long gcd(long a, long b){
+    public int gcd(int a, int b){
 
-        long rem = a%b;
+        int rem = a%b;
 
         if(rem==0){
             return b;
@@ -22,7 +22,7 @@ class Solution {
                 int b = nums[j];
 
                 long mul = (long)a * b;
-                long gcd = gcd(a,b);
+                long gcd = (long)gcd(a,b);
 
                 maxStrength = Math.max(maxStrength,mul / (gcd*gcd));
             }
