@@ -53,6 +53,7 @@ The problems are categorized by topics such as:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -87,6 +88,7 @@ The problems are categorized by topics such as:
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -390,6 +392,7 @@ The problems are categorized by topics such as:
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
