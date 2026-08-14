@@ -18,11 +18,11 @@ class Solution {
         for(int i=0;i<n;i++){
             for(int j=i+1;j<n;j++){
 
-                long a = nums[i];
-                long b = nums[j];
+                int a = nums[i];
+                int b = nums[j];
 
-                long mul = a * b;
-                long gcd = (a>=b) ? gcd(a,b) : gcd(b,a);
+                long mul = (long)a * b;
+                long gcd = gcd(a,b);
 
                 maxStrength = Math.max(maxStrength,mul / (gcd*gcd));
             }
