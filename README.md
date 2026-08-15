@@ -193,6 +193,7 @@ The problems are categorized by topics such as:
 | [0779-k-th-symbol-in-grammar](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0779-k-th-symbol-in-grammar/) | Medium |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0847-shortest-path-visiting-all-nodes/) | Hard |
 | [1009-complement-of-base-10-integer](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -306,6 +307,7 @@ The problems are categorized by topics such as:
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3731-find-missing-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Matrix
