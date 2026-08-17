@@ -149,6 +149,7 @@ The problems are categorized by topics such as:
 | [1463-cherry-pickup-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1473-paint-house-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1473-paint-house-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
@@ -179,6 +180,7 @@ The problems are categorized by topics such as:
 | [1140-stone-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -279,6 +281,7 @@ The problems are categorized by topics such as:
 | [1480-running-sum-of-1d-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
@@ -742,6 +745,7 @@ The problems are categorized by topics such as:
 | [1140-stone-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
