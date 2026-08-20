@@ -305,6 +305,7 @@ The problems are categorized by topics such as:
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -673,6 +674,7 @@ The problems are categorized by topics such as:
 | ------- | ------- |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Geometry
