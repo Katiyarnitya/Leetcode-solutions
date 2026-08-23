@@ -87,6 +87,7 @@ The problems are categorized by topics such as:
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
+| [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2213-longest-substring-of-one-repeating-character/) | Hard |
@@ -183,6 +184,7 @@ The problems are categorized by topics such as:
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -568,6 +570,7 @@ The problems are categorized by topics such as:
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
@@ -760,6 +763,7 @@ The problems are categorized by topics such as:
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
