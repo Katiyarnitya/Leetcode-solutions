@@ -155,6 +155,7 @@ The problems are categorized by topics such as:
 | [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1976-number-of-ways-to-arrive-at-destination/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
@@ -184,6 +185,7 @@ The problems are categorized by topics such as:
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [2965-find-missing-and-repeated-values](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2965-find-missing-and-repeated-values/) | Easy |
@@ -296,6 +298,7 @@ The problems are categorized by topics such as:
 | [1751-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1751-maximum-number-of-events-that-can-be-attended-ii/) | Hard |
 | [1793-maximum-score-of-a-good-subarray](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1793-maximum-score-of-a-good-subarray/) | Hard |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2094-finding-3-digit-even-numbers](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2094-finding-3-digit-even-numbers/) | Easy |
@@ -473,6 +476,7 @@ The problems are categorized by topics such as:
 | [1140-stone-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1871-jump-game-vii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1871-jump-game-vii/) | Medium |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [2574-left-and-right-sum-differences](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2906-construct-product-matrix/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -763,6 +767,7 @@ The problems are categorized by topics such as:
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
 | [1563-stone-game-v](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1563-stone-game-v/) | Hard |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 | [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
@@ -770,12 +775,14 @@ The problems are categorized by topics such as:
 | [1140-stone-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Zero-Sum Game
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1140-stone-game-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1406-stone-game-iii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1510-stone-game-iv/) | Hard |
+| [1872-stone-game-viii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1872-stone-game-viii/) | Hard |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
