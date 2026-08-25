@@ -35,8 +35,10 @@ class Solution {
             prefix[i] = prefix[i-1] + stoneValue[i];
         }
 
-        Integer[][] dp = new Integer[n+1][n+1];
+        Integer[][] dp = new Integer[n][n];
 
+
+        // for(int l=0;l<)
         return solve(0,n-1,dp,stoneValue);
     }
 }
