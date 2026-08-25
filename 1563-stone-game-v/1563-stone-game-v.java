@@ -35,10 +35,30 @@ class Solution {
             prefix[i] = prefix[i-1] + stoneValue[i];
         }
 
-        Integer[][] dp = new Integer[n][n];
+        // Integer[][] dp = new Integer[n][n];
 
+        int[][] dp = new int[n][n];
 
-        // for(int l=0;l<)
-        return solve(0,n-1,dp,stoneValue);
+        for(int l=n-1;l>=0;l--){
+            for(int r=0;r<n;r++){
+
+                int score = 0;
+                for(int mid=l; mid<=r-1; mid++){
+                    int leftSum = (l>0) ? prefix[mid] - prefix[l-1] : prefix[mid];
+                    int rightSum = prefix[r] - prefix[mid];
+
+                    if(leftSum<rightSum){
+                        dp[l][r] = Math.max(dp[l][r], leftSum+dp[l][mid]);
+                    }else if(rightSum<leftSum){
+                        dp[l][r] = Math.max(dp[l][r], rightSum + dp[mid+1][r]);
+                    }else{
+                        dp[l][r] = Math.max(dp[l][r], Math.max(leftSum + dp[l][mid], rightSum + dp[mid+1][r]));
+                    }
+                }
+            }
+        }
+
+        return dp[0][n-1];
+        // return solve(0,n-1,dp,stoneValue);
     }
 }
