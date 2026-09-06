@@ -42,7 +42,6 @@ class Solution {
         for(int l=n-1;l>=0;l--){
             for(int r=0;r<n;r++){
 
-                int score = 0;
                 for(int mid=l; mid<=r-1; mid++){
                     int leftSum = (l>0) ? prefix[mid] - prefix[l-1] : prefix[mid];
                     int rightSum = prefix[r] - prefix[mid];
