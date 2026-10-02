@@ -1,19 +1,31 @@
-class Solution { 
-    public void helper(int open, int close, int n, List<String> ans, String str){
-        if(str.length() == 2*n){
-            ans.add(str);
+class Solution {
+    List<String> result;
+    public void solve(int i, StringBuilder sb, int open, int close, int n){
+
+        if(i>=2*n){
+            result.add(sb.toString());
             return;
         }
-        if(open<n){
-            helper(open+1,close,n,ans,str+"(");
+
+        // 2 options
+        // open bracket
+        if(open>0){
+            sb.append("(");
+            solve(i+1,sb,open-1,close,n);
+            sb.deleteCharAt(sb.length() - 1);
         }
-        if(close<open){
-            helper(open, close+1, n, ans,str+")");
-        }
+        if(open<close){
+            sb.append(")");
+            solve(i+1,sb,open,close-1,n);
+            sb.deleteCharAt(sb.length() - 1);
+        }        
+        // return;
     }
     public List<String> generateParenthesis(int n) {
-        List<String> ans = new ArrayList<>();
-        helper(0, 0, n, ans, "");
-        return ans;
+
+        result = new ArrayList<>();   
+        StringBuilder sb = new StringBuilder();
+        solve(0,sb,n,n,n);
+        return result;
     }
 }
