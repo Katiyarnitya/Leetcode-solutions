@@ -2,38 +2,40 @@ class Solution {
     public String reverseParentheses(String s) {
         
         int n = s.length();
-        Stack<Integer> st = new Stack<>();
-        Stack<Character> stChar = new Stack<>();
-
-        int skipLeftChars = 0;
+        Stack<Integer> countSkipCharStack = new Stack<>();
+        Stack<Character> characterStack = new Stack<>();
 
         for(int i=0;i<n;i++){
             char ch = s.charAt(i);
             
             if(ch=='('){
-                st.push(stChar.size()); // At each time we encounter open bracket we will keep track that how many charcater we have to skip before that bracket. Therefore to store that information we can use the stack
+                countSkipCharStack.push(characterStack.size()); // At each time we encounter open bracket we will keep track that how many charcater we have to skip before that bracket. Therefore to store that information we can use the stack
             }else if(ch==')'){
         
-                int charToSkip = st.pop(); // number of characters we have to skip while reversing
-                String str = "";
-                int charToPop = stChar.size()-charToSkip;
-                for(int j=0;j<charToPop;j++){
-                    str+=stChar.pop();
+                int charToSkip = countSkipCharStack.pop(); // number of characters we have to skip while reversing
+                StringBuilder str = new StringBuilder();
+                int charToPop = characterStack.size()-charToSkip;
+                for(int j=0;j<charToPop;j++){ // while(characterStack.size() > charToSkip){
+                    str.append(characterStack.pop());
                 }
                 for(int j=0;j<str.length();j++){
-                    stChar.push(str.charAt(j));
+                    characterStack.push(str.charAt(j));
                 }
                 
             }else{
-                stChar.push(ch);
+                characterStack.push(ch);
             }
         }
         StringBuilder sb = new StringBuilder();
-        int stCharSize= stChar.size();
 
-        for(int i=0;i<stCharSize;i++){
-            sb.append(stChar.pop());
+        while(!characterStack.isEmpty()){
+            sb.append(characterStack.pop());
         }
+        
+        // int stCharSize= characterStack.size();
+        // for(int i=0;i<stCharSize;i++){
+        //     sb.append(characterStack.pop());
+        // }
 
         return sb.reverse().toString();
     }
