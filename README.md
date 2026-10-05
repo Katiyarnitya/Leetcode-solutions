@@ -102,6 +102,7 @@ The problems are categorized by topics such as:
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3302-find-the-lexicographically-smallest-valid-sequence/) | Medium |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+| [3498-reverse-degree-of-a-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Backtracking
@@ -704,6 +705,7 @@ The problems are categorized by topics such as:
 | [2075-decode-the-slanted-ciphertext](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Geometry
