@@ -1,34 +1,56 @@
+
 class Solution {
     public int minAddToMakeValid(String s) {
-        
+
         int n = s.length();
-        if(n==0 || n==1){
+        if (n == 0 || n == 1) {
             return n;
         }
 
-        // Stack<Character> stOpen = new Stack<>();
         // Instead of using a stack we can use another variable that tracks open count
         int openCount = 0;
         int extraCloseCount = 0;
 
-        for(char ch : s.toCharArray()){
+        for (char ch : s.toCharArray()) {
 
-            if(ch=='('){
+            if (ch == '(') {
                 openCount++;
-            }else{
-                if(openCount<=0){
+            } else {
+                if (openCount <= 0) {
                     extraCloseCount++;
-                }else{
+                } else {
                     openCount--;
                 }
-                // if(!stOpen.isEmpty()){
-                //     stOpen.pop();
-                // }else{
-                //     extraCloseCount++;
-                // }
             }
         }
-        // return stOpen.size()+extraCloseCount;
+
         return openCount + extraCloseCount;
     }
 }
+
+// class Solution {
+//     public int minAddToMakeValid(String s) {
+        
+//         int n = s.length();
+//         if(n==0 || n==1){
+//             return n;
+//         }
+
+//         Stack<Character> stOpen = new Stack<>();
+//         int extraCloseCount = 0;
+
+//         for(char ch : s.toCharArray()){
+
+//             if(ch=='('){
+//                 stOpen.push(ch);
+//             }else{
+//                 if(!stOpen.isEmpty()){
+//                     stOpen.pop();
+//                 }else{
+//                     extraCloseCount++;
+//                 }
+//             }
+//         }
+//         return stOpen.size()+extraCloseCount;
+//     }
+// }
