@@ -6,21 +6,29 @@ class Solution {
             return n;
         }
 
-        Stack<Character> stOpen = new Stack<>();
-        Stack<Character> stClose = new Stack<>();
+        // Stack<Character> stOpen = new Stack<>();
+        // Instead of using a stack we can use another variable that tracks open count
+        int openCount = 0;
+        int extraCloseCount = 0;
 
         for(char ch : s.toCharArray()){
 
             if(ch=='('){
-                stOpen.push(ch);
+                openCount++;
             }else{
-                if(!stOpen.isEmpty()){
-                    stOpen.pop();
+                if(openCount<=0){
+                    extraCloseCount++;
                 }else{
-                    stClose.push(ch);
+                    openCount--;
                 }
+                // if(!stOpen.isEmpty()){
+                //     stOpen.pop();
+                // }else{
+                //     extraCloseCount++;
+                // }
             }
         }
-        return stOpen.size()+stClose.size();
+        // return stOpen.size()+extraCloseCount;
+        return openCount + extraCloseCount;
     }
 }
