@@ -79,6 +79,7 @@ The problems are categorized by topics such as:
 | [0097-interleaving-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0097-interleaving-string/) | Medium |
 | [0125-valid-palindrome](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0127-word-ladder](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0127-word-ladder/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0394-decode-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0394-decode-string/) | Medium |
 | [0443-string-compression](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0443-string-compression/) | Medium |
 | [0516-longest-palindromic-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0516-longest-palindromic-subsequence/) | Medium |
@@ -116,6 +117,7 @@ The problems are categorized by topics such as:
 | [0022-generate-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0051-n-queens/) | Hard |
 | [0113-path-sum-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0113-path-sum-ii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -535,6 +537,7 @@ The problems are categorized by topics such as:
 | [0207-course-schedule](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0279-perfect-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0279-perfect-squares/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0322-coin-change/) | Medium |
 | [0463-island-perimeter](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0463-island-perimeter/) | Easy |
 | [0662-maximum-width-of-binary-tree](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0662-maximum-width-of-binary-tree/) | Medium |
