@@ -2,7 +2,6 @@ class Solution {
 
     public int openCloseBracketLeft(String str){
 
-        int n = str.length();
         int openCount = 0;
         int extraCloseCount = 0;
 
@@ -23,11 +22,12 @@ class Solution {
         return openCount + extraCloseCount;
     }
 
-    HashSet<String> set;
+    
     public void solve(int i, String ans, int maxLength, HashSet<String> set, String s){
         
         if(ans.length()==maxLength && openCloseBracketLeft(ans)==0){
             set.add(ans);
+            return;
         }
 
         if(i>=s.length()){
@@ -37,21 +37,26 @@ class Solution {
         char ch = s.charAt(i);
         // include
         solve(i+1,ans+ch,maxLength,set,s);
+
         if(ch=='(' || ch==')'){
+            //exclude
             solve(i+1,ans,maxLength,set,s);
         }
     }
     public List<String> removeInvalidParentheses(String s) {
-        set = new HashSet<>();
+
+        HashSet<String> set = new HashSet<>();
 
         int n = s.length();
+        List<String> list = new ArrayList<>();
+
         if (n == 1) {
             if(s.charAt(0)!='(' && s.charAt(0)!=')'){
-                List<String> list = new ArrayList<>();
                 list.add(String.valueOf(s.charAt(0)));
                 return list;
             }else{
-                return List.of("");
+                list.add("");
+               return list;
             }
         }
 
@@ -59,8 +64,7 @@ class Solution {
         int parenthesisToBeRemoved = openCloseBracketLeft(s);
 
        solve(0,"",n-parenthesisToBeRemoved,set,s);
-      return new ArrayList<>(set);
-
-
+       list.addAll(set);
+        return list;
     }
 }
