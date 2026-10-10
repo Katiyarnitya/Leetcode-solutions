@@ -1,35 +1,33 @@
 class Solution {
     public int minInsertions(String s) {
+        
         int n = s.length();
-        int open = 0;
-        int insertions = 0;
+        int minInsertion = 0;
+        int depth = 0;
 
-        for (int i = 0; i < n; i++) {
+        for(int i=0;i<n;i++){
             char ch = s.charAt(i);
 
-            if (ch == '(') {
-                open++;
-            } else {
-                // Check whether the next character is also ')'
-                if (i + 1 < n && s.charAt(i + 1) == ')') {
+            if(ch=='('){
+                depth+=2;
+            }else{
+                if(i+1<n && s.charAt(i+1)==')'){
+                    if(depth>=2){
+                        depth-=2;
+                    }else{
+                        minInsertion++;
+                    }
                     i++;
-                } else {
-                    insertions++;
-                }
-
-                // Match the required '))' with an opening '('
-                if (open > 0) {
-                    open--;
-                } else {
-                    // Insert an opening '('
-                    insertions++;
+                }else{
+                    if(depth>=2){
+                        depth-=2;
+                        minInsertion++;
+                    }else{
+                        minInsertion+=2;
+                    }
                 }
             }
         }
-
-        // Each remaining '(' needs two closing ')'
-        insertions += open * 2;
-
-        return insertions;
+        return minInsertion + (depth);
     }
 }
