@@ -212,6 +212,7 @@ The problems are categorized by topics such as:
 | [3345-smallest-divisible-digit-product-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Bit Manipulation
@@ -621,6 +622,7 @@ The problems are categorized by topics such as:
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
