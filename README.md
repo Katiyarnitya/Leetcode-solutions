@@ -93,6 +93,7 @@ The problems are categorized by topics such as:
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1405-longest-happy-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -615,6 +616,7 @@ The problems are categorized by topics such as:
 | [0678-valid-parenthesis-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1386-cinema-seat-allocation/) | Medium |
+| [1405-longest-happy-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1927-sum-game](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1927-sum-game/) | Medium |
@@ -635,6 +637,7 @@ The problems are categorized by topics such as:
 | [0347-top-k-frequent-elements](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1046-last-stone-weight/) | Easy |
+| [1405-longest-happy-string](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/1405-longest-happy-string/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2611-mice-and-cheese](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2611-mice-and-cheese/) | Medium |
 | [2940-find-building-where-alice-and-bob-can-meet](https://github.com/Katiyarnitya/Leetcode-solutions/tree/main/2940-find-building-where-alice-and-bob-can-meet/) | Hard |
